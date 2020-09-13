@@ -1,9 +1,11 @@
 ﻿using Autofac;
 using MS.Products.Application;
 using MS.Products.Services;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Products.Infrastructure.AutofacModules
 {
+    [ExcludeFromCodeCoverage]
     public class ApplicationModule : Autofac.Module
     {
         private readonly string _connectionString;

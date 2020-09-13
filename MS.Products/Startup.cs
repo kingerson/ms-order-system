@@ -8,9 +8,11 @@ using Microsoft.Extensions.DependencyInjection;
 using MS.Products.Infrastructure.AutofacModules;
 using Swashbuckle.AspNetCore.Swagger;
 using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Products
 {
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
         public IConfiguration _configuration { get; }

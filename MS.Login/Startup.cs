@@ -1,12 +1,18 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MS.Login.Infraestructure.AutofacModules;
 using Swashbuckle.AspNetCore.Swagger;
+using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Login
 {
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
         public IConfiguration _configuration { get; }
@@ -17,7 +23,7 @@ namespace MS.Login
 
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddMvcCore()
                 .AddCors()
@@ -34,8 +40,13 @@ namespace MS.Login
                     Title = _configuration["Microservice"],
                     Version = "V1"
                 });
-
             });
+
+            var container = new ContainerBuilder();
+            container.Populate(services);
+            container.RegisterModule(new ApplicationModule(_configuration["ConnectionString"]));
+
+            return new AutofacServiceProvider(container.Build());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

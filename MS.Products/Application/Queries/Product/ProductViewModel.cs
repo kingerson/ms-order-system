@@ -1,5 +1,8 @@
-﻿namespace MS.Products.Application
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace MS.Products.Application
 {
+    [ExcludeFromCodeCoverage]
     public class ProductViewModel
     {
         public int id { get; set; }

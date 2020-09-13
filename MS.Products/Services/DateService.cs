@@ -1,8 +1,10 @@
 ﻿using Microsoft.Extensions.Configuration;
 using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Products.Services
 {
+    [ExcludeFromCodeCoverage]
     public class DateService : IDateService
     {
         private IConfiguration _configuration { get; }

@@ -1,7 +1,9 @@
 ﻿using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Products.Application
 {
+    [ExcludeFromCodeCoverage]
     public class BasePagination
     {
         public int Page { get; set; }

@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace MS.Products.Application
 {
+    [ExcludeFromCodeCoverage]
     public class Product
     {
         public int id { get; set; }
