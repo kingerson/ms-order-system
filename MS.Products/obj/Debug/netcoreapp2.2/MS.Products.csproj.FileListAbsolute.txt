@@ -15,3 +15,20 @@ C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.dll
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.pdb
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.genruntimeconfig.cache
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\appsettings.json
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.deps.json
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.runtimeconfig.json
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.runtimeconfig.dev.json
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.dll
+D:\RepoGerson\ms-order-system\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.pdb
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.csprojAssemblyReference.cache
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.AssemblyInfoInputs.cache
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.AssemblyInfo.cs
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.csproj.CoreCompileInputs.cache
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorAssemblyInfo.cache
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorAssemblyInfo.cs
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorTargetAssemblyInfo.cache
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.dll
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.pdb
+D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.genruntimeconfig.cache
