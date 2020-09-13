@@ -1,0 +1,17 @@
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\MS.Login.deps.json
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\MS.Login.runtimeconfig.json
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\MS.Login.runtimeconfig.dev.json
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\MS.Login.dll
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.csprojAssemblyReference.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.RazorAssemblyInfo.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.RazorAssemblyInfo.cs
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.AssemblyInfoInputs.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.AssemblyInfo.cs
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.RazorTargetAssemblyInfo.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.genruntimeconfig.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\bin\Debug\netcoreapp2.2\MS.Login.pdb
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.dll
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.pdb
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Login\obj\Debug\netcoreapp2.2\MS.Login.csproj.CoreCompileInputs.cache
