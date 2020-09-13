@@ -6,7 +6,6 @@ C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\bin\Debug\netcoreapp2.2\
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.dll
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\bin\Debug\netcoreapp2.2\MS.Products.pdb
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.csprojAssemblyReference.cache
-C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.csproj.CoreCompileInputs.cache
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.AssemblyInfoInputs.cache
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.AssemblyInfo.cs
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorTargetAssemblyInfo.cache
@@ -30,3 +29,6 @@ D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.Ra
 D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.dll
 D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.pdb
 D:\RepoGerson\ms-order-system\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.genruntimeconfig.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorAssemblyInfo.cache
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.RazorAssemblyInfo.cs
+C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Products\obj\Debug\netcoreapp2.2\MS.Products.csproj.CoreCompileInputs.cache

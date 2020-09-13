@@ -23,6 +23,5 @@ namespace MS.Login.Controllers
             var result = await _userQuery.GetUserInfo(email,password);
             return Ok(result);
         }
-
     }
 }

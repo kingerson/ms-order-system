@@ -4,6 +4,7 @@ using MS.Products.Services;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
+using util_net;
 
 namespace MS.Products.Controllers
 {
@@ -31,6 +32,8 @@ namespace MS.Products.Controllers
         public async Task<IActionResult> CreateProduct(Product model)
         {
             model.register_date = _dateService.GetDate();
+            var producer = Core.GetNameFormat(model.producer);
+            model.producer = producer;
             var result = await _productRepository.Create(model);
             return CreatedAtAction(nameof(CreateProduct), result);
         }
@@ -39,7 +42,7 @@ namespace MS.Products.Controllers
         [HttpPut]
         [ProducesResponseType((int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
-        public async Task<IActionResult> UpdateDevice(Product model)
+        public async Task<IActionResult> UpdateProduct(Product model)
         {
             model.register_date = _dateService.GetDate();
             var result = await _productRepository.Update(model);
