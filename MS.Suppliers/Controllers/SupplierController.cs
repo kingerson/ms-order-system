@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Net;
 using System.Threading.Tasks;
+using util_net;
 
 namespace MS.Suppliers.Controllers
 {
@@ -27,6 +28,7 @@ namespace MS.Suppliers.Controllers
             TextInfo textInfo = ci.TextInfo;
             var ggg = "caja de herramientaS, hola a mundo";
             var dddd = textInfo.ToTitleCase(ggg);
+            var textResult = Core.GetNameFormat(ggg);
             var result = await Task.FromResult(command);
             return CreatedAtAction(nameof(CreateSupplier), command);
         }

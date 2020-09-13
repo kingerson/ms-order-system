@@ -14,4 +14,3 @@ C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.dll
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.pdb
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.genruntimeconfig.cache
-C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.csproj.CoreCompileInputs.cache

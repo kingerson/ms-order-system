@@ -28,8 +28,7 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.4",
-          "Swashbuckle.AspNetCore": "4.0.1",
-          "util-net": "1.0.0"
+          "Swashbuckle.AspNetCore": "4.0.1"
         },
         "runtime": {
           "MS.Suppliers.dll": {}
@@ -433,17 +432,6 @@
           "System.Runtime.Extensions": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Threading.Tasks": "4.3.0"
-        }
-      },
-      "util-net/1.0.0": {
-        "runtime": {
-          "lib/netstandard2.0/util-net.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/util-net.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3815,13 +3803,6 @@
       "sha512": "sha512-td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
-    },
-    "util-net/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-uRDsj0gsZzAcqxWnapc4NbqPuYVy3SCO9rkvTTaw8yyBCC0sMMx09p9ym74AmzmT+Oafpbgc6WYsFZLGVnAl/g==",
-      "path": "util-net/1.0.0",
-      "hashPath": "util-net.1.0.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

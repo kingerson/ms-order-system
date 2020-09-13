@@ -4799,6 +4799,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "util-net/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/util-net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/util-net.dll": {}
+        }
       }
     }
   },
@@ -13099,6 +13108,17 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "util-net/4.0.0": {
+      "sha512": "dVMuURdIAw4eEy23SsbBfnfRYNzJLEy1zTOcJygMhF3b5yFhoeS/b8BzAUH7s9gnpx6osH2gjy/+wA1U3SqGkQ==",
+      "type": "package",
+      "path": "util-net/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.0/util-net.dll",
+        "util-net.4.0.0.nupkg.sha512",
+        "util-net.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -13107,7 +13127,8 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.4",
-      "Swashbuckle.AspNetCore >= 4.0.1"
+      "Swashbuckle.AspNetCore >= 4.0.1",
+      "util-net >= 4.0.0"
     ]
   },
   "packageFolders": {
@@ -13136,7 +13157,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/gersonnavarro0209/_packaging/gersonnavarro0209/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/gersonnavarro0209/lab/_packaging/REEF_LIBS/nuget/v3/index.json": {},
         "https://pkgs.dev.azure.com/realplaza/_packaging/RP_LIBS_FEED/nuget/v3/index.json": {}
       },
       "frameworks": {
@@ -13176,6 +13197,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[4.0.1, )"
+          },
+          "util-net": {
+            "target": "Package",
+            "version": "[4.0.0, )"
           }
         },
         "imports": [
