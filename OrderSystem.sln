@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.Login", "MS.Login\MS.Login.csproj", "{B7DF2D3E-5AC3-49B3-B717-2C1BDA616AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.Login", "MS.Login\MS.Login.csproj", "{B7DF2D3E-5AC3-49B3-B717-2C1BDA616AE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.Products", "MS.Products\MS.Products.csproj", "{D132646D-0890-40CB-8C5C-268BE7040327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.Products", "MS.Products\MS.Products.csproj", "{D132646D-0890-40CB-8C5C-268BE7040327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.Suppliers", "MS.Suppliers\MS.Suppliers.csproj", "{F3305F46-676F-49B8-81C1-91E7A2959A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.Suppliers", "MS.Suppliers\MS.Suppliers.csproj", "{F3305F46-676F-49B8-81C1-91E7A2959A05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

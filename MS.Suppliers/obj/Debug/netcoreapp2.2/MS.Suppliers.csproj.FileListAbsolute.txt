@@ -14,21 +14,3 @@ C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.dll
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.pdb
 C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.genruntimeconfig.cache
-C:\Users\Gerson Navarro\Desktop\OrderSystem\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.csproj.CoreCompileInputs.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.dll
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.pdb
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\appsettings.json
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\MS.Suppliers.deps.json
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\MS.Suppliers.runtimeconfig.json
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\MS.Suppliers.runtimeconfig.dev.json
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\MS.Suppliers.dll
-D:\RepoGerson\ms-order-system\MS.Suppliers\bin\Debug\netcoreapp2.2\MS.Suppliers.pdb
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.csprojAssemblyReference.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.AssemblyInfoInputs.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.AssemblyInfo.cs
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.csproj.CoreCompileInputs.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.RazorAssemblyInfo.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.RazorAssemblyInfo.cs
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.RazorTargetAssemblyInfo.cache
-D:\RepoGerson\ms-order-system\MS.Suppliers\obj\Debug\netcoreapp2.2\MS.Suppliers.genruntimeconfig.cache
